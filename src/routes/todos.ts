@@ -14,5 +14,3 @@ router.patch("/:id", updateToDo);
 router.delete("/:id", deleteToDo);
 
 export default router;
-
-// Init working on advanced css
